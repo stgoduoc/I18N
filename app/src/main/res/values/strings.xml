@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Internacionalización</string>
+    <string name="saludo">Hola Mundo!!!</string>
+    <string name="idioma">Lenguaje:</string>
+    <string name="idiomaPorDefecto">Español</string>
+    <string name="actualizar">Actualizar Información</string>
+</resources>
